@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="correct">Correct</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="title">Swipe Right for True and Left for False</string>
+</resources>
